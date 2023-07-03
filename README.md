@@ -1,2 +1,2 @@
 
-The data I used was from Kaggle: [click here](https://www.kaggle.com/datasets/gregorut/videogamesales)
+I used Kaggle Dataset: [here](https://www.kaggle.com/datasets/gregorut/videogamesales)
